@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "slug": "building-reliable-apis",
+    "title": "Building Reliable APIs at Scale",
+    "excerpt": "Lessons from designing REST and GraphQL services that stay fast under load.",
+    "content": "When you ship an API that other teams depend on, reliability matters more than clever abstractions.\n\nStart with clear contracts, version your endpoints, and measure latency percentiles—not just averages. Caching, idempotency keys, and structured error responses save hours in production.\n\nIn this post I walk through patterns we used to cut p95 latency by 40% without rewriting the entire stack.",
+    "coverImageUrl": "",
+    "publishedAt": "2025-03-15T10:00:00.000Z",
+    "published": true,
+    "tags": ["API", "Backend", "Performance"]
+  },
+  {
+    "id": "2",
+    "slug": "nextjs-portfolio-tips",
+    "title": "Shipping a Portfolio with Next.js",
+    "excerpt": "A practical guide to App Router, admin panels, and JSON-backed content.",
+    "content": "Modern portfolios are more than static HTML. With Next.js you get server components, API routes, and a great developer experience.\n\nI prefer JSON or file-based CMS for solo projects—simple to deploy, easy to back up. Add an admin layer with session auth and you're set.\n\nFocus on performance: optimize images, lazy-load below the fold, and keep the critical path small.",
+    "coverImageUrl": "",
+    "publishedAt": "2025-02-01T10:00:00.000Z",
+    "published": true,
+    "tags": ["Next.js", "React", "Career"]
+  }
+]

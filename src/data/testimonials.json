@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah M.",
+    "role": "Engineering Manager",
+    "company": "TechCorp",
+    "quote": "Subeko consistently delivers clean, well-tested code and raises the bar for the whole team. A pleasure to work with.",
+    "avatarUrl": "",
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "name": "James K.",
+    "role": "Product Lead",
+    "company": "StartupXYZ",
+    "quote": "From MVP to scale, Subeko owned critical features end-to-end. Strong communicator and deep technical skills.",
+    "avatarUrl": "",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "name": "Amina N.",
+    "role": "CTO",
+    "company": "DevTools Inc",
+    "quote": "Rare combination of frontend polish and backend rigor. Would hire again without hesitation.",
+    "avatarUrl": "",
+    "rating": 5
+  }
+]

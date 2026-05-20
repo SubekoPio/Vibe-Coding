@@ -1,0 +1,159 @@
+{
+  "profile": {
+    "name": "Subeko Pio",
+    "title": "Software Engineer",
+    "tagline": "I build reliable, user-focused products across the stack.",
+    "bio": "Full-stack engineer with 5+ years shipping web applications, APIs, and developer tooling. I care about clean architecture, measurable performance, and teams that ship with confidence.",
+    "aboutStory": "I'm Subeko Pio, a software engineer based in Kampala, Uganda. I discovered programming through curiosity about how apps work—and never looked back.\n\nToday I focus on full-stack development: React and Next.js on the front, Node.js and PostgreSQL on the back. I enjoy turning complex problems into simple, maintainable systems.\n\nWhen I'm not coding, I'm learning new tools, contributing to open source, or mentoring junior developers. I'm always open to roles and projects where I can ship meaningful products.",
+    "email": "hantersubek223@gmail.com",
+    "location": "Kampala, UG",
+    "whatsapp": "+256786037806",
+    "avatarUrl": "/uploads/avatar.jpg",
+    "resumeUrl": "/uploads/resume.pdf",
+    "socials": [
+      {
+        "platform": "github",
+        "url": "https://github.com",
+        "label": "GitHub"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://linkedin.com",
+        "label": "LinkedIn"
+      },
+      {
+        "platform": "",
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": "1",
+      "name": "TypeScript",
+      "category": "languages",
+      "imageUrl": ""
+    },
+    {
+      "id": "2",
+      "name": "Python",
+      "category": "languages",
+      "imageUrl": ""
+    },
+    {
+      "id": "3",
+      "name": "JS",
+      "category": "languages",
+      "imageUrl": ""
+    },
+    {
+      "id": "4",
+      "name": "React",
+      "category": "frameworks",
+      "imageUrl": ""
+    },
+    {
+      "id": "5",
+      "name": "Next.js",
+      "category": "frameworks",
+      "imageUrl": ""
+    },
+    {
+      "id": "6",
+      "name": "Node.js",
+      "category": "frameworks",
+      "imageUrl": ""
+    },
+    {
+      "id": "7",
+      "name": "PostgreSQL",
+      "category": "tools",
+      "imageUrl": ""
+    },
+    {
+      "id": "8",
+      "name": "Docker",
+      "category": "tools",
+      "imageUrl": ""
+    },
+    {
+      "id": "9",
+      "name": "AWS",
+      "category": "tools",
+      "imageUrl": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "role": "Senior Software Engineer",
+      "company": "TechCorp",
+      "period": "2022 — Present",
+      "description": "Lead development of customer-facing platform serving 2M+ users.",
+      "highlights": [
+        "Reduced API latency by 40% through caching and query optimization",
+        "Mentored 4 engineers and established frontend testing standards"
+      ]
+    },
+    {
+      "id": "2",
+      "role": "Software Engineer",
+      "company": "StartupXYZ",
+      "period": "2019 — 2022",
+      "description": "Full-stack engineer on a B2B SaaS product from seed to Series A.",
+      "highlights": [
+        "Built real-time dashboard with WebSockets and React",
+        "Designed REST and GraphQL APIs used by 50+ enterprise clients"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "DevFlow",
+      "description": "CI/CD analytics platform for engineering teams.",
+      "longDescription": "Aggregates pipeline metrics, flaky test detection, and deployment frequency dashboards. Built with Next.js, PostgreSQL, and background workers.",
+      "techStack": [
+        "Next.js",
+        "PostgreSQL",
+        "Redis",
+        "Tailwind"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://example.com",
+      "repoUrl": "https://github.com",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "OpenAPI Studio",
+      "description": "Visual editor and mock server for OpenAPI specs.",
+      "longDescription": "Lets teams design, validate, and share API contracts with live preview and mock responses.",
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Express"
+      ],
+      "imageUrl": "",
+      "liveUrl": "",
+      "repoUrl": "https://github.com",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "TaskMesh",
+      "description": "Distributed task queue with observability built in.",
+      "longDescription": "Lightweight job runner with retries, dead-letter queues, and Prometheus metrics.",
+      "techStack": [
+        "Go",
+        "gRPC",
+        "Prometheus"
+      ],
+      "imageUrl": "",
+      "liveUrl": "",
+      "repoUrl": "https://github.com",
+      "featured": false
+    }
+  ]
+}

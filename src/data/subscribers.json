@@ -1,0 +1,14 @@
+[
+  {
+    "email": "hantercee@gmail.com",
+    "subscribedAt": "2026-05-19T21:09:42.027Z",
+    "welcomeSentAt": null,
+    "welcomeError": "{\"statusCode\":401,\"name\":\"validation_error\",\"message\":\"API key is invalid\"}"
+  },
+  {
+    "email": "hantersubek223@gmail.com",
+    "subscribedAt": "2026-05-19T21:42:06.463Z",
+    "welcomeSentAt": null,
+    "welcomeError": "Email not configured (set RESEND_API_KEY)"
+  }
+]
