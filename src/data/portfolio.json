@@ -154,6 +154,20 @@
       "liveUrl": "",
       "repoUrl": "https://github.com",
       "featured": false
+    },
+    {
+      "id": "1779995155311-k0n3vmp",
+      "title": "School mgn't system",
+      "description": "A school management system with CRUD operations.",
+      "longDescription": "Created a simple school management system that records students', teachers', and users' data. It also has CRUD operations for easy management.\nIt has an advanced page for managing school fees.",
+      "techStack": [
+        "Bootstrap",
+        "PHP"
+      ],
+      "imageUrl": "",
+      "liveUrl": "",
+      "repoUrl": "",
+      "featured": true
     }
   ]
 }
